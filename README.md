@@ -22,9 +22,6 @@ Made with love, two sleepless nights and 3 coffees trying to get the box renderi
 │   ├── GameUI.cpp
 │   ├── Tetris.cpp
 │   └── main.cpp
-├── bin/
-│   └── tetris_cpp
-└── build/
 ```
 
 -   `include/`: Header files for the game logic and UI
